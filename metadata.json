@@ -1,0 +1,6 @@
+{
+  "name": "MLS Property Ingest Processor",
+  "description": "Automated real estate MLS property normalization and ingest processor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

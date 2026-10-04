@@ -1,0 +1,152 @@
+{
+  "properties": [
+    {
+      "property_id": "prop_austin_willow1404",
+      "address": {
+        "street_address": "1404 Willow St",
+        "unit": null,
+        "city": "Austin",
+        "state": "TX",
+        "postal_code": "78702"
+      },
+      "price": 850000,
+      "bedrooms": 3,
+      "bathrooms": 2.0,
+      "square_feet": 1850,
+      "amenities": [
+        "swimming_pool",
+        "central_ac"
+      ],
+      "zip_code": "78702",
+      "local_sponsors": [
+        {
+          "sponsor_id": "spn_apex01",
+          "business_name": "Apex Lending",
+          "category": "lender",
+          "placement_tier": "primary",
+          "phone": "+15125550199"
+        }
+      ]
+    },
+    {
+      "property_id": "prop_austin_west301_24b",
+      "address": {
+        "street_address": "301 West Ave",
+        "unit": "24B",
+        "city": "Austin",
+        "state": "TX",
+        "postal_code": "78701"
+      },
+      "price": 1200000,
+      "bedrooms": 2,
+      "bathrooms": 2.5,
+      "square_feet": 1400,
+      "amenities": [
+        "ev_charger",
+        "hardwood_floors",
+        "stainless_appliances"
+      ],
+      "zip_code": "78701",
+      "local_sponsors": [
+        {
+          "sponsor_id": "spn_lonestar",
+          "business_name": "Lone Star Moving",
+          "category": "moving",
+          "placement_tier": "secondary"
+        }
+      ]
+    },
+    {
+      "property_id": "prop_austin_elmhurst4509",
+      "address": {
+        "street_address": "4509 Elmhurst Dr",
+        "unit": null,
+        "city": "Austin",
+        "state": "TX",
+        "postal_code": "78756"
+      },
+      "price": 625000,
+      "bedrooms": 4,
+      "bathrooms": 2.0,
+      "square_feet": 2100,
+      "amenities": [
+        "fenced_yard",
+        "forced_air_heating"
+      ],
+      "zip_code": "78756",
+      "local_sponsors": [
+        {
+          "sponsor_id": "spn_captitle",
+          "business_name": "Capital Title Co",
+          "category": "title_escrow",
+          "placement_tier": "primary"
+        }
+      ]
+    },
+    {
+      "property_id": "prop_austin_east8th2208",
+      "address": {
+        "street_address": "2208 E 8th St",
+        "unit": null,
+        "city": "Austin",
+        "state": "TX",
+        "postal_code": "78702"
+      },
+      "price": 975000,
+      "bedrooms": 3,
+      "bathrooms": 3.0,
+      "square_feet": 1950,
+      "amenities": [
+        "solar_panels",
+        "central_ac",
+        "ev_charger",
+        "in_unit_laundry"
+      ],
+      "zip_code": "78702",
+      "local_sponsors": [
+        {
+          "sponsor_id": "spn_apex01",
+          "business_name": "Apex Lending",
+          "category": "lender",
+          "placement_tier": "primary",
+          "phone": "+15125550199"
+        },
+        {
+          "sponsor_id": "spn_shield01",
+          "business_name": "Shield Insurance",
+          "category": "insurance",
+          "placement_tier": "secondary"
+        }
+      ]
+    },
+    {
+      "property_id": "prop_austin_justin1102",
+      "address": {
+        "street_address": "1102 Justin Ln",
+        "unit": null,
+        "city": "Austin",
+        "state": "TX",
+        "postal_code": "78757"
+      },
+      "price": 499000,
+      "bedrooms": 2,
+      "bathrooms": 1.0,
+      "square_feet": 950,
+      "amenities": [
+        "hardwood_floors",
+        "attached_garage",
+        "fenced_yard"
+      ],
+      "zip_code": "78757",
+      "local_sponsors": [
+        {
+          "sponsor_id": "spn_travco",
+          "business_name": "Travis County Mutual",
+          "category": "insurance",
+          "placement_tier": "primary",
+          "phone": "+15125550123"
+        }
+      ]
+    }
+  ]
+}
